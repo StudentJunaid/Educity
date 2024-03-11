@@ -1,0 +1,73 @@
+.testimonial{
+    margin: 50px auto;
+    padding: 0 80px;
+    position: relative;
+}
+
+.next-btn, .back-btn{
+    position: absolute;
+    top: 46%;
+    right: 0;
+    transform: translateX(-50%);
+     background-color: #113086;
+     padding: 10px;
+     border: none;
+     outline: none;
+     border-radius: 50%;
+     width: 50px;
+     cursor: pointer;
+}
+
+.back-btn{
+    left: 0;
+    transform: translateX(30%);
+}
+
+.slider{
+    overflow: hidden;
+}
+
+.slider ul{
+    list-style: none;
+    display: flex;
+    overflow-x: hidden;
+    width: 200%;
+    transition: all 0.5s;
+}
+
+
+.slider ul li{
+    width: 25%;
+}
+
+.slide{
+   width: 100%;
+   box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+   padding: 25px;
+}
+
+.slide img{
+    width: 40px;
+    border-radius: 50%;
+    border: 4px solid #113086;
+}
+
+.slide .slede-div{
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+}
+
+
+.slide .inner-div{
+    margin-left: 8px;
+}
+
+.slide p{
+    margin-top: 15px;
+}
+
+.inner-div h3{
+    margin-bottom: 5px;
+}
+

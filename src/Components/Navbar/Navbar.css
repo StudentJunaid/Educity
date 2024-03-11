@@ -1,0 +1,26 @@
+nav{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 4px 0;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    z-index: 99;
+}
+
+.logo{
+    width: 150px;
+}
+
+ul li{
+    display: inline-block;
+    margin: 5px 15px;
+}
+
+.dark-theme{
+    background-color: #113086;
+    transition: 0.5s;
+}
