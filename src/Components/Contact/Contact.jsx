@@ -1,4 +1,4 @@
-import React from 'react'
+import React, {useState} from 'react'
 import './Contact.css'
 
 import email_icon from '../../assets/msg-icon.png'
@@ -9,7 +9,7 @@ import white_icon from '../../assets/white-arrow.png'
 
 function Contact() {
 
-    const [result, setResult] = React.useState("");
+    const [result, setResult] = useState("");
 
     const onSubmit = async (event) => {
       event.preventDefault();
