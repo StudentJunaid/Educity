@@ -64,3 +64,15 @@
     display: block;
     margin: 9px 0;
 }
+
+/* Media Query */
+
+@media (max-width: 600px){
+    .Contact{
+        display: block;
+    }
+
+    .contact-col{
+        padding: 20px;
+    }
+}

@@ -3,12 +3,12 @@ import './About.css'
 import   about_png from '../../assets/about.png'
 import   play_icon from '../../assets/play-icon.png'
 
-function About() {
+function About({setPlayVedio}) {
   return (
     <div className='about'>
         <div className="about-left">
-            <img className='about-img' src={about_png} alt="" />
-            <img className='play-icon' src={play_icon} alt="" />
+            <img className='about-img' src={about_png} />
+            <img className='play-icon' src={play_icon} onClick={()=> {setPlayVedio(true)}} />
         </div>
         <div className="about-right">
             <p className='about-uni'>About University</p>

@@ -29,3 +29,17 @@
     align-items: center;
     justify-content: center
   }
+
+  /* Media Query */
+
+  @media (max-width: 660px) {
+    .Campus .gellery{
+        flex-direction: column;
+        margin: 20px;
+    }
+
+    .gellery img{
+        width: 100%;
+        margin: 20px;
+    }
+}

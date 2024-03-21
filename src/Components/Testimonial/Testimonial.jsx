@@ -47,7 +47,7 @@ function Testimonial() {
                                     <p>Educiti,USA</p>
                                 </div>
                             </div>
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque animi debitis omnis saepe et accusantium molestiae libero reprehenderit, aliquid similique laborum fuga voluptates blanditiis illo.</p>
+                            <p>Loremaepe et accusantium molestiae libero reprehenderit, aliquid similique laborum fuga voluptates blanditiis illo.</p>
                         </div>
                     </li>
 
@@ -60,7 +60,7 @@ function Testimonial() {
                                     <p>Educiti,USA</p>
                                 </div>
                             </div>
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque animi debitis omnis saepe et accusantium molestiae libero reprehenderit, aliquid similique laborum fuga voluptates blanditiis illo.</p>
+                            <p>Loremaepe et accusantium molestiae libero reprehenderit, aliquid similique laborum fuga voluptates blanditiis illo.</p>
                         </div>
                     </li>
                     <li>
@@ -72,7 +72,7 @@ function Testimonial() {
                                     <p>Educiti,USA</p>
                                 </div>
                             </div>
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque animi debitis omnis saepe et accusantium molestiae libero reprehenderit, aliquid similique laborum fuga voluptates blanditiis illo.</p>
+                            <p>Loremaepe et accusantium molestiae libero reprehenderit, aliquid similique laborum fuga voluptates blanditiis illo.</p>
                         </div>
                     </li>
                     <li>
@@ -84,7 +84,7 @@ function Testimonial() {
                                     <p>Educiti,USA</p>
                                 </div>
                             </div>
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque animi debitis omnis saepe et accusantium molestiae libero reprehenderit, aliquid similique laborum fuga voluptates blanditiis illo.</p>
+                            <p>Loremaepe et accusantium molestiae libero reprehenderit, aliquid similique laborum fuga voluptates blanditiis illo.</p>
                         </div>
                     </li>
                 </ul>

@@ -33,3 +33,14 @@ a{
   justify-content: center;
 }
 
+/* media query */
+
+@media (max-width: 1000px){
+    .container{
+      padding-left: 5%;
+      padding-right: 5%;
+    }
+    .btn{
+      padding: 8px 15px;
+    }
+}

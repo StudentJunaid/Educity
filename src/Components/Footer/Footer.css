@@ -11,3 +11,20 @@
     display: inline-block;
     margin-left: 15px;
 }
+
+/* Media Query */
+
+@media (max-width: 550px){
+    .Footer p{
+        font-size: 13px;
+    }
+    .Footer ul li{
+        font-size: 13px;
+    }
+}
+
+@media (max-width: 466px){
+   .Footer{
+    flex-direction: column;
+   }
+}
