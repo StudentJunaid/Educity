@@ -70,6 +70,7 @@
 @media (max-width: 600px){
     .Contact{
         display: block;
+        /* flex-direction: column; */
     }
 
     .contact-col{

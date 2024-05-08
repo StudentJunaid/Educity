@@ -30,6 +30,8 @@ function Testimonial() {
       }
     
       slideImg.current.style.transform = `translateX(${tx}%)`;
+
+     
     };
     
     return (

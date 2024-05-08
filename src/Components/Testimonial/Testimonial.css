@@ -45,6 +45,7 @@
     width: 100%;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
     padding: 25px;
+    border-radius: 10px;
 }
 
 .slide img {
@@ -102,7 +103,7 @@
     }
 
     .slider ul li {
-        width: 23%;
+        width: 25%;
     }
 }
 
